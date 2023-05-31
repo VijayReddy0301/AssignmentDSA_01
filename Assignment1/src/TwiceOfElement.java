@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+//QUESTION_06
+
 public class TwiceOfElement {
 
 	public static void main(String[] args) {
